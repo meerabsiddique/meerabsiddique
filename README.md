@@ -26,5 +26,6 @@ Build real-world projects
 Strengthen my software development skills
 Learn modern web technologies
 Contribute to open-source projects
+
 📫 Connect with Me
 LinkedIn: www.linkedin.com/in/meerab-siddique-468b46416
