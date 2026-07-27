@@ -7,4 +7,5 @@ I enjoy turning ideas and concepts into real applications—whether it's a termi
 
 📫 Connect with Me
 LinkedIn: www.linkedin.com/in/meerab-siddique-468b46416
-![Profile Views](https://komarev.com/ghpvc/?username=meerabsiddique&color=blue)
+
+![Stars](https://img.shields.io/github/stars/meerabsiddique?style=social)
