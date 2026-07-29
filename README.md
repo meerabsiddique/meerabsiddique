@@ -1,12 +1,14 @@
-Hi, I'm Meerab 👋
+                                                                Hi, I'm Meerab 👩‍💻
 
 BS Computer Science Student at FAST-NUCES Lahore
 
-I'm a Computer Science (BSCS) student passionate about learning software development and building practical projects.
-I enjoy turning ideas and concepts into real applications.
+
 
 📫 Connect with Me
-LinkedIn: www.linkedin.com/in/meerab-siddique-468b46416
+<p align="center">
+  <a href="https://github.com/meerabsiddique"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meerab-siddique-468b46416"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ## 💻 Tech Stack
 
